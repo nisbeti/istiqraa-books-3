@@ -1,0 +1,72 @@
+[
+    {
+        "pageCount": 82,
+        "firstPageId": 1,
+        "lastPageId": 82,
+        "firstPage": 1,
+        "lastPage": 84,
+        "partName": "مقدمة جـ 1",
+        "partFolderName": "مقدمة جـ 1",
+        "partPath": "343\/3343\/مقدمة جـ 1"
+    },
+    {
+        "pageCount": 349,
+        "firstPageId": 83,
+        "lastPageId": 431,
+        "firstPage": 1,
+        "lastPage": 366,
+        "partName": "1",
+        "partFolderName": "001",
+        "partPath": "343\/3343\/001"
+    },
+    {
+        "pageCount": 420,
+        "firstPageId": 432,
+        "lastPageId": 851,
+        "firstPage": 367,
+        "lastPage": 810,
+        "partName": "2",
+        "partFolderName": "002",
+        "partPath": "343\/3343\/002"
+    },
+    {
+        "pageCount": 50,
+        "firstPageId": 852,
+        "lastPageId": 901,
+        "firstPage": 1,
+        "lastPage": 55,
+        "partName": "مقدمة جـ 3",
+        "partFolderName": "مقدمة جـ 3",
+        "partPath": "343\/3343\/مقدمة جـ 3"
+    },
+    {
+        "pageCount": 392,
+        "firstPageId": 902,
+        "lastPageId": 1293,
+        "firstPage": 1,
+        "lastPage": 401,
+        "partName": "3",
+        "partFolderName": "003",
+        "partPath": "343\/3343\/003"
+    },
+    {
+        "pageCount": 29,
+        "firstPageId": 1294,
+        "lastPageId": 1322,
+        "firstPage": 1,
+        "lastPage": 31,
+        "partName": "مقدمة جـ 4",
+        "partFolderName": "مقدمة جـ 4",
+        "partPath": "343\/3343\/مقدمة جـ 4"
+    },
+    {
+        "pageCount": 438,
+        "firstPageId": 1323,
+        "lastPageId": 1760,
+        "firstPage": 1,
+        "lastPage": 442,
+        "partName": "4",
+        "partFolderName": "004",
+        "partPath": "343\/3343\/004"
+    }
+]

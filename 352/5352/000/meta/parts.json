@@ -1,0 +1,52 @@
+[
+    {
+        "pageCount": 5,
+        "firstPageId": 1,
+        "lastPageId": 5,
+        "firstPage": 1,
+        "lastPage": 4,
+        "partName": "المقدمة",
+        "partFolderName": "المقدمة",
+        "partPath": "352\/5352\/المقدمة"
+    },
+    {
+        "pageCount": 477,
+        "firstPageId": 6,
+        "lastPageId": 482,
+        "firstPage": 3,
+        "lastPage": 480,
+        "partName": "1",
+        "partFolderName": "001",
+        "partPath": "352\/5352\/001"
+    },
+    {
+        "pageCount": 545,
+        "firstPageId": 483,
+        "lastPageId": 1027,
+        "firstPage": 1,
+        "lastPage": 548,
+        "partName": "2",
+        "partFolderName": "002",
+        "partPath": "352\/5352\/002"
+    },
+    {
+        "pageCount": 447,
+        "firstPageId": 1028,
+        "lastPageId": 1474,
+        "firstPage": 1,
+        "lastPage": 449,
+        "partName": "3",
+        "partFolderName": "003",
+        "partPath": "352\/5352\/003"
+    },
+    {
+        "pageCount": 492,
+        "firstPageId": 1475,
+        "lastPageId": 1966,
+        "firstPage": 1,
+        "lastPage": 493,
+        "partName": "4",
+        "partFolderName": "004",
+        "partPath": "352\/5352\/004"
+    }
+]
